@@ -5,4 +5,3 @@ A = [[12, 7, 3],
     [7, 8, 9]]
 
 print(np.transpose(A))
-print(np.transpose(B))
