@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+food = input("What is your favorite food? ")
+music = input("What is your favorite music? ")  
+location = input("Where do you live? ")
+print(name, "likes to eat", food, "and listens to", music, "in", location)
