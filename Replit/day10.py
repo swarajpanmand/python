@@ -1,0 +1,5 @@
+print("Tip Calculator")
+spend = float(input("how much didd you spend?"))
+tip = int(input("what percentage do you want to tip?"))
+people = int(input("how many people in your group?"))
+print((spend - spend*0.15)/people)
