@@ -1,10 +1,6 @@
-
-
 def star(n):
     print("*"*n)
    
-    
-
 def ulta(n1,n):
     
     star(n1)
@@ -12,6 +8,5 @@ def ulta(n1,n):
     if n1 == n+1:
         return
     ulta(n1,n)
-
 
 ulta(1,5)
