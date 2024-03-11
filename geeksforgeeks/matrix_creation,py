@@ -8,4 +8,4 @@ for i in range(n):
         row.append(1+ n*i+j)
     res.append(row)
 
-print("the creaation matrix of n*n is: "+ str(res))
+print("the creation matrix of n*n is: "+ str(res))
